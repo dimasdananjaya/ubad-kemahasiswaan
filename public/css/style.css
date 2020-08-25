@@ -1,0 +1,9 @@
+html, body { max-width: 100%; overflow-x: hidden; }
+
+#home-page .section-wrapper{
+    background-color: #ffffff;
+}
+
+#home-page .container{
+    margin-top: 2em;
+}

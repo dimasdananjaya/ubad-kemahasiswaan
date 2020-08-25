@@ -44,42 +44,85 @@
         </a>
     </div> <!--carousel-->
 
-    <div class="container pt-4 pb-4">
-        <h1 class="text-center mb-5">Event Kampus Bali Uni Terbaru</h1>
-        <div class="row">
-            <div class="col-lg-4">
-                <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" src="..." alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div><!--card-->
-            </div><!--col 4-->
-
-            <div class="col-lg-4">
-                <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" src="..." alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div><!--card-->
-            </div><!--col 4-->
-
-            <div class="col-lg-4">
-                <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" src="..." alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div><!--card-->
-            </div><!--col 4-->
-        </div><!--row-->
-    </div><!--container>
+    <div class="section-wrapper">
+        <div class="container pt-4 pb-4">
+            <h1 class="text-center mb-5">Organisasi Mahasiswa Bali Uni</h1>
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="card d-block mx-auto" style="width: 18rem;">
+                        <img class="card-img-top" src="..." alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div><!--card-->
+                </div><!--col 4-->
+    
+                <div class="col-lg-4">
+                    <div class="card d-block mx-auto" style="width: 18rem;">
+                        <img class="card-img-top" src="..." alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div><!--card-->
+                </div><!--col 4-->
+    
+                <div class="col-lg-4">
+                    <div class="card d-block mx-auto" style="width: 18rem;">
+                        <img class="card-img-top" src="..." alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div><!--card-->
+                </div><!--col 4-->
+            </div><!--row-->
+        </div><!--container-->
+    </div><!--section-wrapper-->
+    
+    <div class="section-wrapper">
+        <div class="container pt-4 pb-4">
+            <h1 class="text-center mb-5">Event Kampus Bali Uni Terbaru</h1>
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="card d-block mx-auto" style="width: 18rem;">
+                        <img class="card-img-top" src="..." alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div><--card-->
+                </div><!--col 4-->
+    
+                <div class="col-lg-4">
+                    <div class="card d-block mx-auto" style="width: 18rem;">
+                        <img class="card-img-top" src="..." alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div><!--card-->
+                </div><!--col 4-->
+    
+                <div class="col-lg-4">
+                    <div class="card d-block mx-auto" style="width: 18rem;">
+                        <img class="card-img-top" src="..." alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div><!--card-->
+                </div><!--col 4-->
+            </div><!--row-->
+        </div><!--container-->
+    </div><!--section-wrapper-->
+    
 </section>
 @endsection
